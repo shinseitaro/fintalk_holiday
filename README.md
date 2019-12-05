@@ -20,3 +20,14 @@
 ### :frog: かえるさん(frog)組
 
 
+## 問題の参考集
+
++ [Python入門](https://www.javadrive.jp/python/)
++ [Python-izm ](https://www.python-izm.com/)
++ [Practice Python](http://www.practicepython.org/)
++ [Python Exercises, Practice, Solution - w3resource](https://www.w3resource.com/python-exercises/)
++ [応用プログラミング演習問題集](http://www.logopt.com/mikiokubo/Programming/pythonprob.txt)
+
+
+
+
