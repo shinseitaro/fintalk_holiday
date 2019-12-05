@@ -9,23 +9,14 @@
 
 はじめてのPythonレベル
 
-### とりさん(bird)組
+### :bird: とりさん(bird)組
 
-:bird: 
+### :cat:ねこさん(cat)組
+
+### :dog:いぬさん(dog)組
+
+### :elephant: ぞうさん(elephant)組
+
+### :frog: かえるさん(frog)組
 
 
-### ねこさん(cat)組
-
-:cat:
-
-### いぬさん(dog)組
-
-:dog:
-
-### ぞうさん(elephant)組
-
-:elephant:
-
-### かえるさん(frog)組
-
-:frog:
