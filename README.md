@@ -1,9 +1,8 @@
-# fintalk_holiday
+# fintalk holiday koan
 
 ## Pythonドリル
 
-+ 組わけは難易度。英語のアルファベット順に組分けしました。
-
+Fintalk Holidayの Python ドリル集 (Koan)です。Python の勉強と、Git/Githubを使って開発にも慣れてもらうことを目的にしています。
 
 ### :ant: ありさん(ant)組
 
@@ -11,63 +10,25 @@
 
 ### :bird: とりさん(bird)組
 
+標準ライブラリをガンガン使って解くPython
+
 ### :cat:ねこさん(cat)組
+
+関数やクラスをバンバン書くPython
 
 ### :dog:いぬさん(dog)組
 
+サードパーティライブラリをインストールして取り組む Python 
+
 ### :elephant: ぞうさん(elephant)組
+
+数値分析のためのPython
 
 ### :frog: かえるさん(frog)組
 
+あとで考えよう。色々あるからね。
 
 ## 最初にすること
-
-1. ローカルマシンにgit のインストールと初期設定
-1. github にアカウント作成 https://github.com/
-1. https://github.com/shinseitaro/fintalk_holiday で自分のブランチを作る
-1. ローカルマシンのお好きなところに `fintalk` ディレクトリを作成（任意）
-1. `fintalk` ディレクトリ に git clone する
-	```bash=
-	$ cd fintalk
-	$ git clone https://github.com/shinseitaro/fintalk_holiday.git
-	$ cd fintalk_holiday
-	``` 
-1. remote から fetch する
-	```bash=
-	$ git status
-	ブランチ master
-	Your branch is up-to-date with 'origin/master'.
-	nothing to commit, working directory clean
-
-	$ git fetch
-	From github.com:shinseitaro/fintalk_holiday
-	* [new branch]      test       -> origin/test
-	```
-1. ブランチの確認
-	```bash=
-	$ git branch -a 
-	* master
-	remotes/origin/HEAD -> origin/master
-	remotes/origin/master
-	remotes/origin/test
-	```
-1. 自分のブランチに移動. `test` のところは自分のブランチ名を入れる．
-	```bash=
-	$ git checkout test
-	Branch test set up to track remote branch test from origin.
-	Switched to a new branch 'test'
-
-	$ git branch -a 
-	master
-	* test
-	remotes/origin/HEAD -> origin/master
-	remotes/origin/master
-	remotes/origin/test
-
-	```
-
-
-
 
 
 ## 問題の参考集
