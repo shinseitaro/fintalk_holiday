@@ -38,6 +38,8 @@ Fintalk Holidayの Python ドリル集 (Koan)です。Python の勉強と、Git/
 + [Practice Python](http://www.practicepython.org/)
 + [Python Exercises, Practice, Solution - w3resource](https://www.w3resource.com/python-exercises/)
 + [応用プログラミング演習問題集](http://www.logopt.com/mikiokubo/Programming/pythonprob.txt)
++ [Solve Python | HackerRank](https://www.hackerrank.com/domains/python)
+
 
 
 
